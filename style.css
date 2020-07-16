@@ -1,0 +1,5 @@
+body{
+    background: #135a54; /* fallback for old browsers */         
+    background: -webkit-linear-gradient(113deg, rgb(19, 90, 84) 11%, rgb(0, 107, 171) 94%); /* Chrome 10-25, Safari 5.1-6 */         
+    background: linear-gradient(180deg, rgb(19, 90, 84) 11%, rgb(0, 107, 171) 94%)
+}
