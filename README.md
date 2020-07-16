@@ -1,5 +1,8 @@
 # Hi there I am Aditya 👋
 ## I love to code and solve problems.
+I have been working at 3ds.com from the past 9 years.
+
+<a href="https://twitter.com/scr33nslaver"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
 <link href="style.css" rel="stylesheet"></link>
 <img src="https://raw.githubusercontent.com/aadityadeshmukh/aadityadeshmukh/master/Coding.png" alt="Image of a coder">
 Image credit: <a href="https://ls.graphics/">LS Graphics</a>
