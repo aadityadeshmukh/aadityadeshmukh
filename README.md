@@ -2,7 +2,7 @@
 ## I love to code and solve problems.
 <link href="style.css" rel="stylesheet"></link>
 <img src="https://raw.githubusercontent.com/aadityadeshmukh/aadityadeshmukh/master/Coding.png" alt="Image of a coder">
-
+Image credit: <a href="https://ls.graphics/">LS Graphics</a>
 <!--
 **aadityadeshmukh/aadityadeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
