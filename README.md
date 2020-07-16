@@ -1,7 +1,7 @@
 <link href="style.css" rel="stylesheet"></link>
 # Hi there I am Aditya👋
 ## I love to code and solve problems.
-<img src="Coding.png">
+<img src="/Coding.png">
 
 <!--
 **aadityadeshmukh/aadityadeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
