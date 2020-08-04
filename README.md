@@ -4,7 +4,7 @@ I have been working at [Dassault Systemes](https://3ds.com) from the past 9 year
 
 <a href="https://twitter.com/scr33nslaver" target="_blank"><img style="width:50px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
 <link href="style.css" rel="stylesheet"></link>
-<img style="width:300px" src="https://raw.githubusercontent.com/aadityadeshmukh/aadityadeshmukh/master/Coding.png" alt="Image of a coder">
+<img style="width:200px;float:right" src="https://raw.githubusercontent.com/aadityadeshmukh/aadityadeshmukh/master/Coding.png" alt="Image of a coder">
 Image credit: <a href="https://ls.graphics/" target="_blank">LS Graphics</a>
 <!--
 **aadityadeshmukh/aadityadeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
