@@ -1,14 +1,13 @@
 # Hi there I am Aditya 👋
 ## I love to code and solve problems.
-## I have been working at [Dassault Systemes](https://3ds.com) from the past 9 years. I speak C++ & Java at work. I am learning web-development on the side. 
-
-### I am open for collaboration on any project. You can get in touch with me on the following platforms:
+## I have been working at [Dassault Systemes](https://3ds.com) from the past 9 years. I speak C++ & Java at work.
 
 <a href="https://twitter.com/scr33nslaver" target="_blank" style="display:inline"><img style="width:50px" src="https://img.icons8.com/cotton/64/000000/twitter.png" alt="twitter"/></a>
-<!-- <a href="https://icons8.com/icon/119787/gardening-plant" target="_blank" style="display:inline"><img style="width:50px" src="https://img.icons8.com/cotton/64/000000/n-gardening-plant--v2.png"/></a> -->
-<link href="style.css" rel="stylesheet"></link>
-<a href="https://ls.graphics/" target="_blank"><img style="width:200px;float:right;display:inline-block" src="https://raw.githubusercontent.com/aadityadeshmukh/aadityadeshmukh/master/Coding.png" alt="Image of a coder"></a>
 
+- 🌱 I’m currently learning web development
+- ✨ Here is my live skill chart:
+![Skill Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aadityadeshmukh&skills=Javascript,html,css 
+)
 
 <!-- Image credit: <a href="https://ls.graphics/" target="_blank">LS Graphics</a> -->
 <!--
