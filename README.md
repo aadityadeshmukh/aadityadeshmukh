@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning web development
 - ✨ Here is my live skill chart:
-![Skill Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aadityadeshmukh&skills=Javascript,html,css 
-)
+![Skill Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aadityadeshmukh&skills=Javascript,html,css)
 
 <!-- Image credit: <a href="https://ls.graphics/" target="_blank">LS Graphics</a> -->
 <!--
